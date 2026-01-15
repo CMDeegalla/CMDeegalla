@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm C.M.Deegalla 
 
-<!--
-**CMDeegalla/CMDeegalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc (Hons) in Computer Networks  
+🏫 NSBM Green University, Homagama  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+I am a Computer Networks undergraduate with hands-on experience in routing,
+switching, network security, and traffic analysis. I enjoy working with
+practical labs and documenting them clearly on GitHub.
+
+I am actively seeking an **internship in networking, NOC, IT infrastructure,
+or network security**.
+
+---
+
+## 🛠️ Technical Skills
+- Networking fundamentals (OSI, TCP/IP)
+- VLANs, Static Routing, OSPF
+- Packet Tracer & GNS3
+- Wireshark (TCP/DNS analysis)
+- Linux (CLI & networking basics)
+- Firewall & ACL configuration
+
+---
+
+## 📂 Featured Projects
+- 🔹 [Student Management System](https://github.com/damithr27/Student_Management_System)
+- 🔹 [Computer Networks Fundamentals](https://github.com/CMDeegalla/computer-networks-fundamentals)
+- 🔹 [Routing & Switching Labs](https://github.com/CMDeegalla/routing-switching-labs)
+- 🔹 [Network Security & Traffic Analysis](https://github.com/CMDeegalla/network-security-analysis)
+- 🔹 [Firewall & ACL Labs](https://github.com/CMDeegalla/firewall-acl-labs)
+
+---
+
+## 🌐 Portfolio & Links
+- 🌍 Portfolio: https://CMDeegalla.github.io
+
