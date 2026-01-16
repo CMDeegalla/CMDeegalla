@@ -7,8 +7,7 @@
 
 ## 👩‍💻 About Me
 I am a motivated Computer Networks undergraduate with hands-on experience in
-routing, switching, network security, and traffic analysis. I enjoy working on
-practical networking labs and documenting my learning clearly using GitHub.
+routing, switching, network security, and traffic analysis. I focus on hands-on networking labs and structured technical documentation to build verifiable, real-world networking skills.
 
 I am currently seeking an **internship opportunity in Networking, NOC,
 IT Infrastructure, or Network Security**, where I can apply and further develop
