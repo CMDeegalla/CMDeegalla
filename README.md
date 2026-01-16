@@ -1,8 +1,4 @@
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:06b6d4&height=180&section=header&text=C.M.+Deegalla+%7C+Computer+Networks+%26+Security&fontSize=36&fontAlignY=40&animation=fadeIn"
-/>
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:06b6d4&height=170&section=header&text=C.M.+Deegalla+%7C+Networking+%26+Security+Labs&fontSize=34&fontAlignY=35&animation=fadeIn)
 
 
 <p align="center">
