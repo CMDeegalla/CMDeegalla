@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Computer+Networks+Undergraduate;Networking+Fundamentals+Labs;Routing+%26+Switching+%7C+OSPF;Network+Security+%7C+Firewall+%26+ACL;Packet+Tracer+%7C+Wireshark;Internship-Seeking" />
 </p>
 
+---
 ## 👩‍💻 About Me
 I am a **Computer Networks undergraduate** pursuing a **BSc (Hons) in Computer Networks**
 at **NSBM Green University, Homagama**.
