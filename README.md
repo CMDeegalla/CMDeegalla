@@ -26,6 +26,13 @@ my technical skills.
 - Linux (CLI & networking basics)
 - Firewall and Access Control List (ACL) configuration
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Networking-OSI%20%7C%20TCP%2FIP-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-blue?style=for-the-badge&logo=cisco" />
+  <img src="https://img.shields.io/badge/Wireshark-TCP%2FDNS-06b6d4?style=for-the-badge&logo=wireshark" />
+  <img src="https://img.shields.io/badge/Linux-CLI-black?style=for-the-badge&logo=linux" />
+</p>
+
 ---
 
 ## 📂 Featured Projects
