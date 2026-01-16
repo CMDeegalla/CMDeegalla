@@ -1,5 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:06b6d4&height=160&section=header&text=C.M.Deegalla&fontSize=40&fontAlignY=35&animation=fadeIn" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:06b6d4&height=160&section=header&text=Networking+Labs+%7C+Security+%7C+Traffic+Analysis&fontSize=34&fontAlignY=35&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:06b6d4&height=170&section=header&text=C.M.Deegalla+%7C+Networking+%26+Security+Labs&fontSize=34&fontAlignY=35&animation=fadeIn" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com
@@ -35,6 +34,9 @@ to build **verifiable, real-world networking skills**.
 
 🎯 I am actively seeking an **internship opportunity in Networking, NOC,
 IT Infrastructure, or Network Security**.
+
+### 🎯 Internship Focus
+**Networking • NOC • IT Support • Network Security • Routing & Switching • OSPF • VLAN • TCP/IP • Wireshark • Linux • Firewall • ACL • Packet Tracer**
 
 ---
 
@@ -92,10 +94,10 @@ These Packet Tracer files provide **verifiable proof of hands-on networking and
 security configuration skills**.
 
 - 🔗 **Basic ASA Firewall Configuration**  
-  https://github.com/CMDeegalla/routing-switching-labs/blob/main/packet-tracer/C.M.Deegalla_34169_BasicASA.pkt
+  https://github.com/CMDeegalla/routing-switching-labs/raw/main/packet-tracer/C.M.Deegalla_34169_BasicASA.pkt
 
 - 🔗 **Cisco Routing & Switching Lab**  
-  https://github.com/CMDeegalla/routing-switching-labs/blob/main/packet-tracer/cisco.pkt
+  https://github.com/CMDeegalla/routing-switching-labs/raw/main/packet-tracer/cisco.pkt
 
 ---
 
