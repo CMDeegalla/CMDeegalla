@@ -3,6 +3,8 @@
   src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:06b6d4&height=180&section=header&text=C.M.+Deegalla+%7C+Computer+Networks+%26+Security&fontSize=36&fontAlignY=40&animation=fadeIn"
 />
 
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Computer+Networks+Undergraduate;Networking+Fundamentals+Labs;Routing+%26+Switching+%7C+OSPF;Network+Security+%7C+Firewall+%26+ACL;Packet+Tracer+%7C+Wireshark;Internship-Seeking" alt="Typing SVG" />
 </p>
