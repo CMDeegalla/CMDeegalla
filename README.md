@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Computer+Networks+Undergraduate;Routing+%26+Switching+Labs;Packet+Tracer+%7C+Wireshark;Internship-Seeking" />
+</p>
 # Hi, I'm C. M. Deegalla 👋
 
 🎓 **BSc (Hons) in Computer Networks**  
