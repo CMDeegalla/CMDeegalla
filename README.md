@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:06b6d4&height=160&section=header&text=C.M.Deegalla&fontSize=40&fontAlignY=35&animation=fadeIn" />
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:06b6d4&height=160&section=header&text=Networking+Labs+%7C+Security+%7C+Traffic+Analysis&fontSize=34&fontAlignY=35&animation=fadeIn" />
 
 <p align="center">
@@ -42,6 +43,12 @@ IT Infrastructure, or Network Security**.
 - OSI & TCP/IP models
 - Subnetting & IP addressing
 - VLANs, Static Routing, OSPF (Single Area)
+<p align="center">
+  <img src="https://img.shields.io/badge/Networking-OSI%20%7C%20TCP%2FIP-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-blue?style=for-the-badge&logo=cisco" />
+  <img src="https://img.shields.io/badge/Wireshark-TCP%2FDNS-06b6d4?style=for-the-badge&logo=wireshark" />
+  <img src="https://img.shields.io/badge/Linux-CLI-black?style=for-the-badge&logo=linux" />
+</p>
 
 **Network Security & Analysis**
 - Firewall configuration (Cisco ASA, iptables basics)
