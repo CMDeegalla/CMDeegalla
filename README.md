@@ -1,8 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:06b6d4&height=170&section=header&text=C.M.Deegalla+%7C+Networking+%26+Security+Labs&fontSize=34&fontAlignY=35&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Computer+Networks+Undergraduate;Networking+Fundamentals+Labs;Routing+%26+Switching+%7C+OSPF;Network+Security+%7C+Firewall+%26+ACL;Packet+Tracer+%7C+Wireshark;Internship-Seeking" />
+  <b>Computer Networks Undergraduate</b><br/>
+  Networking Fundamentals • Routing & Switching • OSPF<br/>
+  Network Security • Firewall & ACL • Wireshark • Packet Tracer<br/>
+  🎯 Internship Seeking
 </p>
+
 
 ---
 ## 👩‍💻 About Me
