@@ -21,6 +21,7 @@
 </p>
 
 ---
+![Snake animation](https://github.com/CMDeegalla/CMDeegalla/blob/output/github-contribution-grid-snake.svg)
 
 ## 👩‍💻 About Me
 I am a **Computer Networks undergraduate** pursuing a **BSc (Hons) in Computer Networks**
