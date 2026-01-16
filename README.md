@@ -1,7 +1,21 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:06b6d4&height=160&section=header&text=Networking+Labs+%7C+Security+%7C+Traffic+Analysis&fontSize=34&fontAlignY=35&animation=fadeIn" />
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Computer+Networks+Undergraduate;Routing+%26+Switching+Labs;Packet+Tracer+%7C+Wireshark;Internship-Seeking" />
+  <img src="https://readme-typing-svg.demolab.com
+  ?font=Fira+Code
+  &size=24
+  &pause=1000
+  &color=22C55E
+  &center=true
+  &vCenter=true
+  &width=520
+  &lines=
+  Computer+Networks+Undergraduate;
+  Networking+%7C+Security+Labs;
+  Packet+Tracer+%7C+Wireshark;
+  Internship-Seeking
+  " />
 </p>
+
 # Hi, I'm C. M. Deegalla 👋
 
 🎓 **BSc (Hons) in Computer Networks**  
