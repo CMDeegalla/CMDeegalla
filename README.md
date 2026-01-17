@@ -72,9 +72,11 @@ IT Infrastructure, or Network Security**.
   Cisco ASA and Linux firewall fundamentals  
   https://github.com/CMDeegalla/firewall-acl-labs
 
-- 🔹 **Firewall & ACL Labs**  
+- 🔹 **Food Delivery App**  
   https://github.com/CMDeegalla/food-delivery-app-frontend.git
-
+  
+- 🔹 **Daraz UI Redesign **
+  https://github.com/CMDeegalla/daraz-ui-redesign-figma.git
 ---
 
 ## 📥 Cisco Packet Tracer Lab Files
