@@ -75,7 +75,7 @@ IT Infrastructure, or Network Security**.
 - 🔹 **Food Delivery App**  
   https://github.com/CMDeegalla/food-delivery-app-frontend.git
   
-- 🔹 **Daraz UI Redesign **
+- 🔹 **Daraz UI Redesign**
   https://github.com/CMDeegalla/daraz-ui-redesign-figma.git
 
 
