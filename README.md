@@ -112,14 +112,6 @@ https://github.com/CMDeegalla/computer-networks-fundamentals
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CMDeegalla&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
-</p>
-
----
-
 ## 📥 Cisco Packet Tracer Lab Files
 
 These labs provide **verifiable proof of hands-on networking skills**:
