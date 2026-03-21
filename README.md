@@ -87,6 +87,39 @@ https://github.com/CMDeegalla/computer-networks-fundamentals
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CMDeegalla&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMDeegalla&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CMDeegalla&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CMDeegalla&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CMDeegalla&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
+</p>
+
+---
+
 ## 📥 Cisco Packet Tracer Lab Files
 
 These labs provide **verifiable proof of hands-on networking skills**:
