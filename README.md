@@ -81,12 +81,6 @@ https://github.com/CMDeegalla/network-security-analysis
 
 ---
 
-### 🔹 Firewall & ACL Labs  
-Cisco ASA + Linux firewall fundamentals  
-https://github.com/CMDeegalla/firewall-acl-labs  
-
----
-
 ### 🔹 Computer Networks Fundamentals  
 OSI, TCP/IP, subnetting, protocols  
 https://github.com/CMDeegalla/computer-networks-fundamentals  
