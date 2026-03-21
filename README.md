@@ -112,10 +112,10 @@ https://github.com/CMDeegalla/computer-networks-fundamentals
 
 ---
 
-## 🏆 GitHub Trophies
+## 👀 Profile Views
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CMDeegalla&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
+  <img src="https://komarev.com/ghpvc/?username=CMDeegalla&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
