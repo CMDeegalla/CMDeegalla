@@ -63,7 +63,7 @@ IT Infrastructure, or Network Security**.
 ## Featured Networking Projects
 
 ### NetForge: Cisco Network Design & Security Labs
-https://github.com/CMDeegalla/netforge-cisco-networks-labs  
+(https://github.com/CMDeegalla/netforge-cisco-network-labs) 
 
 Enterprise-level networking labs, including:
 
@@ -77,13 +77,13 @@ Enterprise-level networking labs, including:
 
 ### 🔹 Network Security & Traffic Analysis  
 Wireshark-based TCP/DNS analysis  
-https://github.com/CMDeegalla/network-security-analysis  
+(https://github.com/CMDeegalla/network-security-analysis)
 
 ---
 
 ### 🔹 Computer Networks Fundamentals  
 OSI, TCP/IP, subnetting, protocols  
-https://github.com/CMDeegalla/computer-networks-fundamentals  
+(https://github.com/CMDeegalla/computer-networks-fundamentals)  
 
 ---
 
@@ -117,19 +117,19 @@ https://github.com/CMDeegalla/computer-networks-fundamentals
 These labs provide **verifiable proof of hands-on networking skills**:
 
 - 🔗 **3-Tier Campus Network Design**  
-  https://github.com/CMDeegalla/netforge-cisco-networks-labs  
+  3tier-campus-network/3tier-network.pkt
 
 - 🔗 **Advanced Routing Topology**  
-  https://github.com/CMDeegalla/netforge-cisco-networks-labs  
+  advanced-routing-topology/advanced-routing.pkt
 
 - 🔗 **ASA Firewall Configuration**  
-  https://github.com/CMDeegalla/netforge-cisco-networks-labs  
+  asa-firewall/ASA-firewall.pkt
 
 - 🔗 **Wireless Network with ISP**  
-  https://github.com/CMDeegalla/netforge-cisco-networks-labs  
-
-- 🔗 **Campus Network (VLAN + VoIP)**  
-  https://github.com/CMDeegalla/netforge-cisco-networks-labs  
+  wireless-network/wireless-network.pkt
+  
+- 🔗 **Cyber Resilient Campus Network 3Tier(VLAN + VoIP)**  
+  cyber-resilient-campus-network-3tier-VLAN-VoIP/cyber-resilient-campus-network-3tier-VLAN-VoIP.pkt  
 
 ---
 
