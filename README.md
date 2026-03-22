@@ -68,9 +68,13 @@ https://github.com/CMDeegalla/netforge-cisco-network-labs
 Enterprise-level networking labs, including:
 
 🔹 **3-Tier Campus Network Design (Core, Distribution, Access)**
+
 🔹 **Advanced Routing Topology (RIP-based multi-network communication)**
+
 🔹 **Cisco ASA Firewall Configuration (ACL & traffic control)**
+
 🔹 **Wireless Network with ISP Connectivity**
+
 🔹 **Cyber-Resilient Campus Network (VLAN + VoIP + Servers)**  
 
 ---
