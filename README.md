@@ -99,7 +99,7 @@ Wireshark-based TCP/DNS packet analysis and traffic inspection.
 OSI, TCP/IP, subnetting, protocols  
 https://github.com/CMDeegalla/computer-networks-fundamentals
 
-Covers OSI model, TCP/IP, subnetting, and networking protocols.
+Covers the OSI model, TCP/IP, subnetting, and networking protocols.
 
 ---
 
