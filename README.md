@@ -121,20 +121,19 @@ https://github.com/CMDeegalla/computer-networks-fundamentals
 These labs provide **verifiable proof of hands-on networking skills**:
 
 - **3-Tier Campus Network Design**  
-  3tier-campus-network/3tier-network.pkt
+  https://github.com/CMDeegalla/netforge-cisco-network-labs/blob/main/3tier-campus-network/3tier-network.pkt
 
 - **Advanced Routing Topology**  
-  advanced-routing-topology/advanced-routing.pkt
+  https://github.com/CMDeegalla/netforge-cisco-network-labs/blob/main/advanced-routing-topology/advanced-routing.pkt
 
 - **ASA Firewall Configuration**  
-  asa-firewall/ASA-firewall.pkt
+  https://github.com/CMDeegalla/netforge-cisco-network-labs/blob/main/asa-firewall/ASA-firewall.pkt
 
 - **Wireless Network with ISP**  
-  wireless-network/wireless-network.pkt
+  https://github.com/CMDeegalla/netforge-cisco-network-labs/blob/main/wireless-network/wireless-network.pkt
   
 - **Cyber Resilient Campus Network 3Tier(VLAN + VoIP)**  
-  cyber-resilient-campus-network-3tier-VLAN-VoIP/cyber-resilient-campus-network-3tier-VLAN-VoIP.pkt  
-
+  (https://github.com/CMDeegalla/netforge-cisco-network-labs/blob/main/cyber-resilient-campus-network-3tier-VLAN-VoIP/cyber-resilient-campus-network-3tier-VLAN-VoIP.pkt)
 ---
 
 ## Portfolio & Links
