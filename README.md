@@ -113,7 +113,8 @@ A full-stack web application developed as part of a team to manage student data.
 **My Contribution:**
 - Developed frontend using HTML, Bootstrap, JavaScript  
 - Integrated frontend with backend APIs (Fetch API)  
-- Implemented CRUD operations for Students, Marks, Reports  
+- Implemented CRUD operations for Students, Marks, Reports
+- Contributed ~2500+ lines of code 
 
 **Tech Stack:** Spring Boot • MySQL • HTML • Bootstrap • JavaScript  
 
