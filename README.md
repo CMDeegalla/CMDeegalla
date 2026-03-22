@@ -97,7 +97,7 @@ Wireshark-based TCP/DNS packet analysis and traffic inspection.
 
 ### Computer Networks Fundamentals  
 OSI, TCP/IP, subnetting, protocols  
-https://github.com/CMDeegalla/computer-networks-fundamentals  
+https://github.com/CMDeegalla/computer-networks-fundamentals
 
 Covers OSI model, TCP/IP, subnetting, and networking protocols.
 
@@ -106,7 +106,7 @@ Covers OSI model, TCP/IP, subnetting, and networking protocols.
 ## Additional Projects
 
 ### Student Management System (Group Project)
-[https://github.com/CMDeegalla/student-management-system  ](https://github.com/damithr27/Student_Management_System.git)
+https://github.com/damithr27/Student_Management_System
 
 A full-stack web application developed as part of a team to manage student data.
 
@@ -120,7 +120,7 @@ A full-stack web application developed as part of a team to manage student data.
 ---
 
 ### Food Delivery Web App (Frontend Development)
-https://github.com/CMDeegalla/food-delivery-app  
+https://github.com/CMDeegalla/food-delivery-app-frontend
 
 A responsive food delivery UI developed as part of a group project.
 
@@ -134,7 +134,7 @@ A responsive food delivery UI developed as part of a group project.
 ---
 
 ### Daraz UI Redesign (Figma UX Project)
-https://github.com/CMDeegalla/daraz-ui-redesign  
+https://github.com/CMDeegalla/daraz-ui-redesign-figma
 
 A UI/UX redesign of the Daraz e-commerce platform.
 
