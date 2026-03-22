@@ -51,6 +51,14 @@ IT Infrastructure, or Network Security**.
 
 ---
 
+### **Development & UI/UX**
+- HTML • CSS • Bootstrap • JavaScript  
+- Spring Boot (Basic REST APIs)  
+- MySQL Database Integration  
+- Figma (UI/UX Design & Prototyping)  
+
+---
+
 ### **Tools & Platforms**
 - Cisco Packet Tracer  
 - GNS3  
@@ -79,15 +87,63 @@ Enterprise-level networking labs, including:
 
 ---
 
-###  Network Security & Traffic Analysis  
+### Network Security & Traffic Analysis  
 Wireshark-based TCP/DNS analysis  
 https://github.com/CMDeegalla/network-security-analysis
 
+Wireshark-based TCP/DNS packet analysis and traffic inspection.
+
 ---
 
-### 🔹 Computer Networks Fundamentals  
+### Computer Networks Fundamentals  
 OSI, TCP/IP, subnetting, protocols  
 https://github.com/CMDeegalla/computer-networks-fundamentals  
+
+Covers OSI model, TCP/IP, subnetting, and networking protocols.
+
+---
+
+## Additional Projects
+
+### Student Management System (Group Project)
+https://github.com/CMDeegalla/student-management-system  
+
+A full-stack web application developed as part of a team to manage student data.
+
+**My Contribution:**
+- Developed frontend using HTML, Bootstrap, JavaScript  
+- Integrated frontend with backend APIs (Fetch API)  
+- Implemented CRUD operations for Students, Marks, Reports  
+
+**Tech Stack:** Spring Boot • MySQL • HTML • Bootstrap • JavaScript  
+
+---
+
+### Food Delivery Web App (Frontend Development)
+https://github.com/CMDeegalla/food-delivery-app  
+
+A responsive food delivery UI developed as part of a group project.
+
+**My Contribution:**
+- Designed responsive UI using HTML, CSS, Bootstrap  
+- Created user-friendly layouts (menu, cart, checkout)  
+- Focused on usability and clean design  
+
+**Tech Stack:** HTML • CSS • Bootstrap • JavaScript  
+
+---
+
+### Daraz UI Redesign (Figma UX Project)
+https://github.com/CMDeegalla/daraz-ui-redesign  
+
+A UI/UX redesign of the Daraz e-commerce platform.
+
+**My Contribution:**
+- Designed modern UI using Figma  
+- Improved navigation and user experience  
+- Applied UI/UX principles (color, spacing, hierarchy)  
+
+**Tools:** Figma • UI/UX Design  
 
 ---
 
@@ -111,34 +167,19 @@ https://github.com/CMDeegalla/computer-networks-fundamentals
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CMDeegalla&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CMDeegalla&theme=tokyo-night&hide_border=true&hide_border=true" width="100%"/>
 </p>
 
----
-
-## Cisco Packet Tracer Lab Files
-
-These labs provide **verifiable proof of hands-on networking skills**:
-
-- **3-Tier Campus Network Design**  
-  https://github.com/CMDeegalla/netforge-cisco-network-labs/blob/main/3tier-campus-network/3tier-network.pkt
-
-- **Advanced Routing Topology**  
-  https://github.com/CMDeegalla/netforge-cisco-network-labs/blob/main/advanced-routing-topology/advanced-routing.pkt
-
-- **ASA Firewall Configuration**  
-  https://github.com/CMDeegalla/netforge-cisco-network-labs/blob/main/asa-firewall/ASA-firewall.pkt
-
-- **Wireless Network with ISP**  
-  https://github.com/CMDeegalla/netforge-cisco-network-labs/blob/main/wireless-network/wireless-network.pkt
-  
-- **Cyber Resilient Campus Network 3Tier(VLAN + VoIP)**  
-  (https://github.com/CMDeegalla/netforge-cisco-network-labs/blob/main/cyber-resilient-campus-network-3tier-VLAN-VoIP/cyber-resilient-campus-network-3tier-VLAN-VoIP.pkt)
 ---
 
 ## Portfolio & Links
 - **Portfolio Website:** https://CMDeegalla.github.io  
 - **GitHub:** https://github.com/CMDeegalla  
+
+---
+
+## Career Objective
+To secure an internship in **Networking, NOC, IT Infrastructure, or Network Security**, where I can apply my technical knowledge, gain industry experience, and contribute to real-world IT systems.
 
 ---
 
