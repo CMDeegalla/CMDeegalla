@@ -106,7 +106,7 @@ Covers OSI model, TCP/IP, subnetting, and networking protocols.
 ## Additional Projects
 
 ### Student Management System (Group Project)
-https://github.com/CMDeegalla/student-management-system  
+[https://github.com/CMDeegalla/student-management-system  ](https://github.com/damithr27/Student_Management_System.git)
 
 A full-stack web application developed as part of a team to manage student data.
 
