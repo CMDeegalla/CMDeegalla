@@ -6,7 +6,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 I am a **Computer Networks undergraduate** pursuing a **BSc (Hons) in Computer Networks**
 at **NSBM Green University, Homagama**.
 
@@ -17,17 +17,17 @@ practical labs using **Cisco Packet Tracer, GNS3, Wireshark, and Linux**.
 I focus on **hands-on enterprise-level networking labs and structured technical documentation**
 to build **verifiable, real-world networking skills**.
 
-🎯 I am actively seeking an **internship opportunity in Networking, NOC,
+I am actively seeking an **internship opportunity in Networking, NOC,
 IT Infrastructure, or Network Security**.
 
 ---
 
-## 🎯 Internship Focus
+## Internship Focus
 **Networking • NOC • IT Support • Network Security • Routing & Switching • OSPF • VLAN • TCP/IP • Wireshark • Linux • Firewall • ACL • Packet Tracer**
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### **Networking & Protocols**
 - OSI & TCP/IP models  
@@ -60,10 +60,10 @@ IT Infrastructure, or Network Security**.
 
 ---
 
-## 🚀 Featured Networking Projects
+## Featured Networking Projects
 
-### 🌐 NetForge: Cisco Network Design & Security Labs
-👉 https://github.com/CMDeegalla/netforge-cisco-networks-labs  
+### NetForge: Cisco Network Design & Security Labs
+https://github.com/CMDeegalla/netforge-cisco-networks-labs  
 
 Enterprise-level networking labs, including:
 
@@ -87,7 +87,7 @@ https://github.com/CMDeegalla/computer-networks-fundamentals
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CMDeegalla&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -96,7 +96,7 @@ https://github.com/CMDeegalla/computer-networks-fundamentals
 
 ---
 
-## 🔥 Contribution Streak
+## Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CMDeegalla&theme=tokyonight&hide_border=true" />
@@ -104,7 +104,7 @@ https://github.com/CMDeegalla/computer-networks-fundamentals
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CMDeegalla&theme=tokyo-night&hide_border=true" width="100%"/>
@@ -112,7 +112,7 @@ https://github.com/CMDeegalla/computer-networks-fundamentals
 
 ---
 
-## 📥 Cisco Packet Tracer Lab Files
+## Cisco Packet Tracer Lab Files
 
 These labs provide **verifiable proof of hands-on networking skills**:
 
@@ -133,10 +133,10 @@ These labs provide **verifiable proof of hands-on networking skills**:
 
 ---
 
-## 🌐 Portfolio & Links
-- 🌍 **Portfolio Website:** https://CMDeegalla.github.io  
-- 💻 **GitHub:** https://github.com/CMDeegalla  
+## Portfolio & Links
+- **Portfolio Website:** https://CMDeegalla.github.io  
+- **GitHub:** https://github.com/CMDeegalla  
 
 ---
 
-📌 *This profile demonstrates enterprise-level networking skills, real-world lab implementations, and strong readiness for networking and infrastructure internships.*
+*This profile demonstrates enterprise-level networking skills, real-world lab implementations, and strong readiness for networking and infrastructure internships.*
