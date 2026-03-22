@@ -111,10 +111,11 @@ https://github.com/damithr27/Student_Management_System
 A full-stack web application developed as part of a team to manage student data.
 
 **My Contribution:**
-- Developed frontend using HTML, Bootstrap, JavaScript  
-- Integrated frontend with backend APIs (Fetch API)  
-- Implemented CRUD operations for Students, Marks, Reports
-- Contributed ~2500+ lines of code 
+- Developed responsive frontend (Dashboard, Login, CRUD forms) using HTML, CSS, Bootstrap  
+- Integrated frontend with backend APIs using JavaScript (Fetch API)  
+- Contributed to Spring Boot backend (REST controllers, config, security setup)  
+- Implemented full CRUD functionality for Students, Marks, and Reports  
+- Structured the project into frontend and backend modules  
 
 **Tech Stack:** Spring Boot • MySQL • HTML • Bootstrap • JavaScript  
 
