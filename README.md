@@ -89,7 +89,7 @@ Enterprise-level networking labs, including:
 
 ### Network Security & Traffic Analysis  
 Wireshark-based TCP/DNS analysis  
-https://github.com/CMDeegalla/network-security-analysis
+https://github.com/CMDeegalla/network-security-and-traffic-analysis.git
 
 Wireshark-based TCP/DNS packet analysis and traffic inspection.
 
