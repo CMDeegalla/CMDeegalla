@@ -70,8 +70,8 @@ IT Infrastructure, or Network Security**.
 
 ## Featured Networking Projects
 
-### NetForge: Cisco Network Design & Security Labs
-https://github.com/CMDeegalla/netforge-cisco-network-labs
+### Cisco Packet Tracer Network Projects
+https://github.com/CMDeegalla/cisco-packet-tracer-network-projects.git
 
 Enterprise-level networking labs, including:
 
